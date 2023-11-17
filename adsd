@@ -1,0 +1,32 @@
+[33mcommit c314790eafa19aa2bbde5344a94690ea5bb0e50d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Natali Yedynak <yedynak.it@gmail.com>
+Date:   Wed Nov 15 20:57:54 2023 +0200
+
+    added client2
+
+[33mcommit 363be193476389f0a308aa47c09b109447f985b7[m
+Author: Natali Yedynak <yedynak.it@gmail.com>
+Date:   Wed Nov 15 20:48:36 2023 +0200
+
+    added client
+
+[33mcommit ef95e04524a9d2bbc1314da9dfd7b9785d1f7100[m
+Merge: 21ca9af c9e12a6
+Author: nataliyedynak <150838299+nataliyedynak@users.noreply.github.com>
+Date:   Wed Nov 15 20:33:22 2023 +0200
+
+    Merge pull request #1 from nataliyedynak/day1
+    
+    gave money to client 1
+
+[33mcommit c9e12a68b64475426cc7245dc6a75b57d061945b[m[33m ([m[1;31morigin/day1[m[33m, [m[1;32mday1[m[33m)[m
+Author: Natali Yedynak <yedynak.it@gmail.com>
+Date:   Wed Nov 15 20:32:08 2023 +0200
+
+    gave money to client 1
+
+[33mcommit 21ca9af020ce9a093a0f243273472630cbfc0031[m
+Author: Natali Yedynak <yedynak.it@gmail.com>
+Date:   Wed Nov 15 20:29:00 2023 +0200
+
+    Initial commit
